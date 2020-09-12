@@ -1,4 +1,12 @@
-### Hi there 👋
+## Im paul, [paulrfears.com](https://paulrfears.com) 
+###### I am currently a cs major at Southeast Missouri State University
+###### My email is: paulrfears@gmail.com
+###### currently looking for internships open to internships
+## Here is some of my work
+---
+###### This is my favorite project -> [gifexplosion.com](https://gifexplosion.com)
+###### this is my 2nd favorite project -> [graphs.js](https://paulfears.github.io/Graphs/)
+
 
 <!--
 **paulfears/paulfears** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
