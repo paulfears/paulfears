@@ -1,5 +1,6 @@
 ## Im paul, [paulrfears.com](https://paulrfears.com) 
 ###### I am currently a cs major at Southeast Missouri State University
+###### And social chair of theta xi fraternity
 ###### My email is: paulrfears@gmail.com
 ###### currently looking for internships open to internships
 ## Here is some of my work
