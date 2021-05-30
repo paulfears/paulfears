@@ -1,6 +1,10 @@
 ## [paulrfears.com](https://paulrfears.com) 
+### South East Missouri State University
+### Social Chair of the Theta Xi Fraternity
+### Freelance Developer
+---
 ###### My email is: paulrfears@gmail.com
-### work:
+### work
 ---
 ###### [gifexplosion.com](https://gifexplosion.com)
 ###### [graphs.js](https://paulfears.github.io/Graphs/)
