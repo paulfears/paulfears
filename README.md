@@ -1,5 +1,7 @@
 ## [paulrfears.com](https://paulrfears.com) 
 ###### My email is: paulrfears@gmail.com
+### work:
+---
 ###### [gifexplosion.com](https://gifexplosion.com)
 ###### [graphs.js](https://paulfears.github.io/Graphs/)
 ###### [cookiestoken.org](https://cookiestoken.org/)
