@@ -4,11 +4,14 @@
 ##### Freelance Developer
 ---
 ##### contact at: paulrfears@gmail.com
-### work
+### Projects
 ---
 ###### [gifexplosion.com](https://gifexplosion.com)
 ###### [graphs.js](https://paulfears.github.io/Graphs/)
+
+### Freelance
 ###### [cookiestoken.org](https://cookiestoken.org/)
+###### [seedling.charity](https://seedling.charity/)
 
 <!--
 **paulfears/paulfears** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
