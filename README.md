@@ -1,7 +1,7 @@
 
-<img src="https://paulrfears.com/thing.svg"/>
+
 <img src="https://paulrfears.com/waves_top.svg"/>
-<img src="https://paulrfears.com/waves_bottom.svg"/>
+
 <table>
   <tr>
   <td>
@@ -16,7 +16,7 @@
   </td>
  </tr>
 </table>
-
+<img src="https://paulrfears.com/waves_bottom.svg"/>
 
 
 
