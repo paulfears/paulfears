@@ -15,7 +15,6 @@
 
 
 
-
 ---
 ##### contact at: paulrfears@gmail.com
 ### Projects
@@ -27,6 +26,10 @@
 ###### [Starfishmarinelife.com](https://starfishmarinelife.com/)
 ###### [seedling.charity](https://seedling.charity/)
 ###### [cookiestoken.org](https://cookiestoken.org/)
+
+
+<img src="https://paulrfears.com/waves_bottom.svg"/>
+
 
 
 
