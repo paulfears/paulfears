@@ -1,4 +1,6 @@
 ## [paulrfears.com](https://paulrfears.com) 
+![github](https://user-images.githubusercontent.com/25472414/137795875-f575e6b2-c3f5-4ebb-b21e-1ab1aa411f78.gif)
+
 ##### South East Missouri State University
 ##### Social Chair of the Theta Xi Fraternity
 ##### Freelance Developer
