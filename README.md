@@ -5,9 +5,10 @@
     <img src="https://user-images.githubusercontent.com/25472414/137795875-f575e6b2-c3f5-4ebb-b21e-1ab1aa411f78.gif"/>
   </td>
   <td>
-   ##### South East Missouri State University
-   ##### Social Chair of the Theta Xi Fraternity
-   ##### Freelance Developer
+    <h2>Howard and Goldstein co-owner/ceo</h2>
+    <h2>South East Missouri State University</h2>
+    <h2>Freelance Developer</h2>
+    <h2>Social Chair of the Theta Xi Fraternity</h2>
   </td>
  </tr>
 </table>
