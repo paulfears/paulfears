@@ -1,6 +1,7 @@
 
 <img src="https://paulrfears.com/thing.svg"/>
-<img style="transform: translate(180deg)" src="https://paulrfears.com/thing.svg"/>
+<img src="https://paulrfears.com/waves_top.svg"/>
+<img src="https://paulrfears.com/waves_bottom.svg"/>
 <table>
   <tr>
   <td>
