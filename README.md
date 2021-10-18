@@ -10,7 +10,7 @@
     <a href="paulrfears.com">paulrfears.com</a>
     </div>
 </html>
-
+<br>
 
 <img  height="100" width="1000"  align="center" src="https://paulrfears.com/waves_bottom.svg"/>
 
