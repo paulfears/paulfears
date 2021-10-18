@@ -1,3 +1,5 @@
+
+<img src="https://paulrfears.com/thing.svg"/>
 <table>
   <tr>
   <td>
@@ -15,7 +17,6 @@
 
 
 
-<img src="https://paulrfears.com/thing.svg"/>
 
 
 
