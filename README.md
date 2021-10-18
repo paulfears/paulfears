@@ -3,11 +3,13 @@
 <img src="https://paulrfears.com/waves_top.svg"/>
 
 <html>
+    <center>
     <h4>Howard and Goldstein co-owner/ceo</h4>
     <h4>South East Missouri State University</h4>
     <h4>Freelance Developer</h4>
     <h4>Social Chair of the Theta Xi Fraternity</h4>
     <a href="paulrfears.com">paulrfears.com</a>
+    </center>
 </html>
 <img src="https://paulrfears.com/waves_bottom.svg"/>
 
