@@ -1,6 +1,6 @@
 
 
-<img src="https://paulrfears.com/waves_top.svg"/>
+<img height="100" src="https://paulrfears.com/waves_top.svg"/>
 
 <html>
     <div align="center">
@@ -12,6 +12,7 @@
 </html>
 
 
+<img  height="100"  src="https://paulrfears.com/waves_bottom.svg"/>
 
 
 
@@ -28,7 +29,6 @@
 ###### [cookiestoken.org](https://cookiestoken.org/)
 
 
-<img src="https://paulrfears.com/waves_bottom.svg"/>
 
 
 
