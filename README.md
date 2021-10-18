@@ -1,14 +1,14 @@
-## [paulrfears.com](https://paulrfears.com) 
 <table>
   <tr>
   <td>
     <img src="https://user-images.githubusercontent.com/25472414/137795875-f575e6b2-c3f5-4ebb-b21e-1ab1aa411f78.gif"/>
   </td>
   <td>
-    <h2>Howard and Goldstein co-owner/ceo</h2>
-    <h2>South East Missouri State University</h2>
-    <h2>Freelance Developer</h2>
-    <h2>Social Chair of the Theta Xi Fraternity</h2>
+    <h4>Howard and Goldstein co-owner/ceo</h4>
+    <h4>South East Missouri State University</h4>
+    <h4>Freelance Developer</h4>
+    <h4>Social Chair of the Theta Xi Fraternity</h4>
+    <a href="paulrfears.com">paulrfears.com</a>
   </td>
  </tr>
 </table>
