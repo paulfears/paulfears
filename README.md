@@ -2,7 +2,7 @@
 <table>
   <tr>
   <td>
-    ![github](https://user-images.githubusercontent.com/25472414/137795875-f575e6b2-c3f5-4ebb-b21e-1ab1aa411f78.gif)
+    <img src="https://user-images.githubusercontent.com/25472414/137795875-f575e6b2-c3f5-4ebb-b21e-1ab1aa411f78.gif"/>
   </td>
   <td>
    ##### South East Missouri State University
