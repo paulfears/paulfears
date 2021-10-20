@@ -27,14 +27,14 @@
             <img height="400" align="center" src="https://paulrfears.com/bubbles.svg"/>
         </td>    
         <td>
-### Projects
-###### [gifexplosion.com](https://gifexplosion.com)
-###### [graphs.js](https://paulfears.github.io/Graphs/)
+            <h3>Projects</h3>
+            <h4>[gifexplosion.com](https://gifexplosion.com)</h4>
+            <h4>[graphs.js](https://paulfears.github.io/Graphs/)</h4>
 
-### Freelance
-###### [Starfishmarinelife.com](https://starfishmarinelife.com/)
-###### [seedling.charity](https://seedling.charity/)
-###### [cookiestoken.org](https://cookiestoken.org/)
+            <h3>Freelance</h3>
+            <h4>[Starfishmarinelife.com](https://starfishmarinelife.com/)</h4>
+            <h4>[seedling.charity](https://seedling.charity/)</h4>
+            <h4>[cookiestoken.org](https://cookiestoken.org/)</h4>
         </td>
     </tr>
 </table>
