@@ -18,8 +18,16 @@
 
 ---
 ##### contact at: paulrfears@gmail.com
-### Projects
+
 ---
+
+<table>
+    <tr>
+        <td>
+            <img height="500" width="500" align="center" src="https://paulrfears.com/bubbles.svg"/>
+        </td>    
+        <td>
+### Projects
 ###### [gifexplosion.com](https://gifexplosion.com)
 ###### [graphs.js](https://paulfears.github.io/Graphs/)
 
@@ -27,8 +35,9 @@
 ###### [Starfishmarinelife.com](https://starfishmarinelife.com/)
 ###### [seedling.charity](https://seedling.charity/)
 ###### [cookiestoken.org](https://cookiestoken.org/)
-
-
+        </td>
+    </tr>
+</table>
 
 
 
