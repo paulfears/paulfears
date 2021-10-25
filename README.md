@@ -27,14 +27,7 @@
             <img height="500" width ="500" align="center" src="https://paulrfears.com/bubbles.svg"/>
         </td>    
         <td>
-            <h3>Projects</h3>
-            <h4>https://gifexplosion.com</h4>
-            <h4>[graphs.js](https://paulfears.github.io/Graphs/)</h4>
-
-            <h3>Freelance</h3>
-            <h4>[Starfishmarinelife.com](https://starfishmarinelife.com/)</h4>
-            <h4>[seedling.charity](https://seedling.charity/)</h4>
-            <h4>[cookiestoken.org](https://cookiestoken.org/)</h4>
+           
         </td>
     </tr>
 </table>
