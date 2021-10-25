@@ -24,7 +24,7 @@
 <table>
     <tr>
         <td>
-            <img height="500" width ="500" align="center" src="https://paulrfears.com/bubbles.svg"/>
+            <img height="500" width ="600" align="center" src="https://paulrfears.com/bubbles.svg"/>
         </td>    
         <td>
             <h3>Projects</h3>
