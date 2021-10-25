@@ -24,11 +24,11 @@
 <table>
     <tr>
         <td>
-            <img height="400" align="center" src="https://paulrfears.com/bubbles.svg"/>
+            <img height="500" width ="500" align="center" src="https://paulrfears.com/bubbles.svg"/>
         </td>    
         <td>
             <h3>Projects</h3>
-            <h4>[gifexplosion.com](https://gifexplosion.com)</h4>
+            <h4>https://gifexplosion.com</h4>
             <h4>[graphs.js](https://paulfears.github.io/Graphs/)</h4>
 
             <h3>Freelance</h3>
