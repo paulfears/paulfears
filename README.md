@@ -16,11 +16,6 @@
 
 
 
----
-##### contact at: paulrfears@gmail.com
-
----
-
 
 
 
