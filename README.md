@@ -5,7 +5,7 @@
 <html>
     <div align="center">
     <h4>Howard and Goldstein co-owner/ceo</h4>
-    <h4>South East Missouri State University</h4>
+    ~~<h4>South East Missouri State University</h4>~~
     <h4>Freelance Developer</h4>
     <a href="https://paulrfears.com">paulrfears.com</a>
     </div>
