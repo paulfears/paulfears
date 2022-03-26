@@ -1,6 +1,6 @@
 
 
-<img height="100" width="1000" align="center" src="https://paulrfears.com/waves_top.svg"/>
+<img height="100" width="1000" align="center" src="https://snapalgo02.paulfears.repl.co/waves_top.svg"/>
 
 <html>
     <div align="center">
@@ -12,7 +12,7 @@
 </html>
 <br>
 
-<img  height="100" width="1000"  align="center" src="https://paulrfears.com/waves_bottom.svg"/>
+<img  height="100" width="1000"  align="center" src="https://snapalgo02.paulfears.repl.co/waves_bottom.svg"/>
 
 
 
