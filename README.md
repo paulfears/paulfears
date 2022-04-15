@@ -5,7 +5,7 @@
 <html>
     <div align="center">
     <h4>Howard and Goldstein co-owner/ceo</h4>
-    <h4>Freelance Developer</h4>
+    <h4>Development lead at Kyraview LTD.</h4>
     <h4>Web 3 Emphasis</h4>
     <a href="https://paulrfears.com">paulrfears.com</a>
     </div>
