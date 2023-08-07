@@ -6,7 +6,7 @@
     <div align="center">
     <h4>Founder & Development lead at Kyraview LTD.</h4>
     <h4>Web 3 Emphasis</h4>
-    <a href="https://paulrfears.com">paulrfears.com</a>
+    <a href="https://paulrfears.com">https://profound-begonia-8f3481.netlify.app/</a>
     </div>
 </html>
 <br>
