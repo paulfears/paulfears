@@ -1,18 +1,17 @@
 
 
-<img height="100" width="1000" align="center" src="https://snapalgo02.paulfears.repl.co/waves_top.svg"/>
+<img height="100" width="1000" align="center" src="https://profound-begonia-8f3481.netlify.app/waves_top.svg"/>
 
 <html>
     <div align="center">
-    <h4>Howard and Goldstein co-owner/ceo</h4>
-    <h4>Development lead at Kyraview LTD.</h4>
+    <h4>Founder & Development lead at Kyraview LTD.</h4>
     <h4>Web 3 Emphasis</h4>
     <a href="https://paulrfears.com">paulrfears.com</a>
     </div>
 </html>
 <br>
 
-<img  height="100" width="1000"  align="center" src="https://snapalgo02.paulfears.repl.co/waves_bottom.svg"/>
+<img  height="100" width="1000"  align="center" src="https://profound-begonia-8f3481.netlify.app/waves_bottom.svg"/>
 
 
 
