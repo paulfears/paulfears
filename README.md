@@ -4,7 +4,7 @@
 
 <html>
     <div align="center">
-    <h6>Developer and Buisness Owner</h6>
+    <h3>Developer and Buisness Owner</h3>
     <h6>Web 3 Workerman</h6>
     <a href="https://profound-begonia-8f3481.netlify.app/">paulrfears.com</a>
     </div>
