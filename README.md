@@ -4,8 +4,8 @@
 
 <html>
     <div align="center">
-    <h4>Founder & Development lead at Kyraview LTD.</h4>
-    <h4>Web 3 Emphasis</h4>
+    <h6>Developer and Buisness Owner</h6>
+    <h6>Web 3 Workerman</h6>
     <a href="https://profound-begonia-8f3481.netlify.app/">paulrfears.com</a>
     </div>
 </html>
