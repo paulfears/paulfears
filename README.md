@@ -1,6 +1,6 @@
 
 
-<img height="45" width="1000" align="center" src="https://profound-begonia-8f3481.netlify.app/waves_top.svg"/>
+<img height="100" width="1000" align="center" src="https://profound-begonia-8f3481.netlify.app/waves_top.svg"/>
 
 <html>
     <div align="center">
@@ -11,7 +11,7 @@
 </html>
 <br>
 
-<img  height="45" width="1000"  align="center" src="https://profound-begonia-8f3481.netlify.app/waves_bottom.svg"/>
+<img  height="100" width="1000"  align="center" src="https://profound-begonia-8f3481.netlify.app/waves_bottom.svg"/>
 
 
 
