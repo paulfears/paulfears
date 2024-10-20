@@ -4,7 +4,7 @@
 
 <html>
     <div align="center">
-    <h3>Developer and Friend</h3>
+    <h3>Lab coat Sharpie</h3>
     <p>Web 3 Worker</p>
     <a href="https://profound-begonia-8f3481.netlify.app/">paulrfears.com</a>
     </div>
