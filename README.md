@@ -1,17 +1,17 @@
 
 
-<img height="100" width="1000" align="center" src="https://profound-begonia-8f3481.netlify.app/waves_top.svg"/>
+<img height="100" width="1000" align="center" src="https://raw.githubusercontent.com/paulfears/paulfears/6de1d1776d901a79460f5b74cdbcf3e29c4a2366/waves_top.svg"/>
 
 <html>
     <div align="center">
-    <h3>Developer and Buisness Owner</h3>
-    <p>Web 3 Workerman</p>
+    <h3>Developer and Friend</h3>
+    <p>Web 3 Worker</p>
     <a href="https://profound-begonia-8f3481.netlify.app/">paulrfears.com</a>
     </div>
 </html>
 <br>
 
-<img  height="100" width="1000"  align="center" src="https://profound-begonia-8f3481.netlify.app/waves_bottom.svg"/>
+<img  height="100" width="1000"  align="center" src="https://raw.githubusercontent.com/paulfears/paulfears/6de1d1776d901a79460f5b74cdbcf3e29c4a2366/waves_bottom.svg"/>
 
 
 
