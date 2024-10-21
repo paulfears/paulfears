@@ -4,8 +4,8 @@
 
 <html>
     <div align="center">
-    <h3>Lab coat Sharpie</h3>
-    <p>Web 3 Worker</p>
+    <h3>Lab Coat Sharpie</h3>
+    <p>copyright infringement</p>
     <a href="https://profound-begonia-8f3481.netlify.app/">paulrfears.com</a>
     </div>
 </html>
@@ -21,7 +21,7 @@
 
 
 <!--
-**paulfears/paulfears** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**paulfears/paulfears** is a ✨ _special_ ✨ awwww... retository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
