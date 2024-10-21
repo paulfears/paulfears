@@ -4,7 +4,7 @@
 
 <html>
     <div align="center">
-    <h3>Lab Coat Sharpie</h3>
+    <h3>Lab coat Sharpie</h3>
     <p>copyright infringement</p>
     <a href="https://profound-begonia-8f3481.netlify.app/">paulrfears.com</a>
     </div>
